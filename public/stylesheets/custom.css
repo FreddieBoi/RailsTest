@@ -96,6 +96,7 @@ footer {
 footer nav {
 	float: none;
 }
+
 /* User show page */
 
 table.profile {
@@ -153,4 +154,13 @@ div.field, div.actions {
 #error_explanation ul li {
 	font-size: 12px;
 	list-style: square;
+}
+
+/* Users index */
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
 }
