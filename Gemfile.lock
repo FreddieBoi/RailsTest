@@ -108,6 +108,6 @@ DEPENDENCIES
   rspec (= 2.5.0)
   rspec-rails (= 2.5.0)
   sqlite3-ruby (= 1.3.3)
-  tweet-button
+  tweet-button (= 0.1.0)
   webrat (= 0.7.1)
   will_paginate (= 3.0.pre2)
